@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.box {
+  margin: auto;
+  margin-top: 300px;
+  width: 450px;
+  height: 300px;
+  padding: 10px;
+  background-color: #e3e3e347;
+  border-radius: 30px;
+  text-align: center;
+}
+.inputbox {
+  font-family: Netflix Sans;
+  font-size: 16px;
+  width: 314px;
+  height: 50px;
+  border: #000;
+  padding-left: 16px;
+  background-color: #333333;
+  border-radius: 5px;
+}
+.inputbox2 {
+  font-family: Netflix Sans;
+  font-size: 16px;
+  margin-top: 16px;
+  width: 314px;
+  height: 50px;
+  border: #000;
+  padding-left: 16px;
+  background-color: #333333;
+  border-radius: 5px;
+}
+
+.sign {
+  font-family: Netflix Sans;
+  font-weight: 800;
+  margin-right: 210px;
+}
+.button {
+  font-family: Netflix Sans;
+  font-size: 10px;
+  font-weight: 200;
+  margin-top: 40px;
+  margin-left: 65px;
+  color: #000;
+  text-align: center;
+  width: 314px;
+  text-decoration: none;
+
+  height: 50px;
+  padding-left: 8px;
+
+  border-radius: 5px;
+}
+.butxt {
+  text-decoration: black;
+  padding-top: 13px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 600;
+}
+.chbx {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #b3b3b3;
+  top: 420px;
+  right: 906px;
+}
+.rmr {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  color: #b3b3b3;
+  top: 419px;
+  left: 612px;
+}
+.needhelp {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #b3b3b3;
+  top: 419px;
+  right: 595px;
+}
+.newto {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: #737373;
+  top: 515px;
+  right: 807px;
+}
+.signup {
+  position: absolute;
+  margin-top: 1px;
+  font-family: Netflix Sans;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  top: 515px;
+  right: 716px;
+}
+
+body {
+  background-image: url("car1.jpg");
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
